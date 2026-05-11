@@ -88,3 +88,8 @@ beans.xsd
 items.xsd
 classes/
 eclipsebin/
+
+# I do like my credentials to much to share
+**/.npmrc
+**/.angular
+

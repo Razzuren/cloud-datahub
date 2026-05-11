@@ -1,0 +1,1 @@
+import{c as i}from"./chunk-OVEUT4QB.js";import{Za as t,ma as o}from"./chunk-QDH2HTEP.js";import"./chunk-25N2FLV6.js";var a=(()=>{class e{static{this.\u0275fac=function(n){return new(n||e)}}static{this.\u0275mod=t({type:e})}static{this.\u0275inj=o({imports:[i]})}}return e})();export{a as PersonalizationModule};
