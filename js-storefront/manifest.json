@@ -3,10 +3,6 @@
     {
       "name": "my-spartacus-app",
       "path": "my-spartacus-app",
-      "ssr": {
-        "enabled": true,
-        "path": "dist/my-spartacus-app/server/server.mjs"
-      },
       "csr": {
         "webroot": "dist/my-spartacus-app/browser/"
       },
