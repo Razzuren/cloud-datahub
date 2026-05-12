@@ -349,5 +349,6 @@
     <extension name='cxaiocc' />
     <extension name='cxaibackoffice' />
     <extension name='cxaiaskproductocc' />
+    <extension name='spartacussampledata' />
   </extensions>
 </hybrisconfig>

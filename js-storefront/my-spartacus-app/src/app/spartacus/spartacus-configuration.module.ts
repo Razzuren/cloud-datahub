@@ -24,7 +24,7 @@ import {
     provideConfig(<OccConfig>{
       backend: {
         occ: {
-          baseUrl: 'https://localhost:9002',
+          baseUrl: 'https://api.clwfyft1x1-csamer2023-p1-public.model-t.cc.commerce.ondemand.com',
         },
       },
     }),
