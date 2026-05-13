@@ -350,5 +350,6 @@
     <extension name='cxaibackoffice' />
     <extension name='cxaiaskproductocc' />
     <extension name='spartacussampledata' />
+    <extension name='yacceleratorcore' />
   </extensions>
 </hybrisconfig>
