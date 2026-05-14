@@ -15,8 +15,8 @@ import { I18nConfig, provideConfig } from '@spartacus/core';
     }),
     provideConfig(<CdsConfig>{
       cds: {
-        tenant: 'kakakakaka',
-        baseUrl: 'https://htpissforps.us.context.cloud.sap/',
+        tenant: 'htpissforps',
+        baseUrl: 'https://htpissforps-testsite.api.us.context.cloud.sap/',
         endpoints: {
           strategyProducts: '/strategy/${tenant}/strategies/${strategyId}/products',
           searchIntelligence: '/search-intelligence/v1/sites/${cdsSiteId}/trendingSearches',
